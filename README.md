@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cloud and cyb
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Install OSTicketing system on Ubuntu    |                                  |
+| Install OSTicketing system on Ubuntu    |  https://github.com/Fromyi/OSTicket-on-Ubuntu-Tutorial |
 |  | |
 |  | |
 |    | |
